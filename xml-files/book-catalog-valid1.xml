@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookCatalog>
+  <book>
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <pages>432</pages>
+  </book>
+  <book>
+    <title>The Lord of the Rings</title>
+    <author>J.R.R. Tolkien</author>
+    <price>25.99</price>
+  </book>
+</bookCatalog>
