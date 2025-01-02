@@ -23,6 +23,3 @@ This will validate all XML files in the `xml-files/` directory against the provi
 - `book_catalog.xsd`: The XSD schema file.
 - `xml-files/`: Directory containing XML files for validation.
 - `xml-validator.js`: The JavaScript file that performs XML validation.
-- `package.json`: Project's package file, listing dependencies.
-- `package-lock.json`: Lock file for dependencies.
-- `.gitignore`: Specifies files and directories to be ignored by Git.
